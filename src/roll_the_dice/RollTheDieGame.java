@@ -37,7 +37,6 @@ public class RollTheDieGame {
                 System.out.print("You are now on space " + currentSpace +
                         " and have " + spacesToGo + " more to go.");
             }
-
             System.out.println();
         }
     }
