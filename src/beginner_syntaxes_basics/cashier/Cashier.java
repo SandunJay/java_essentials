@@ -1,7 +1,7 @@
-package cashier;
+package beginner_syntaxes_basics.cashier;
 /*
  * FOR LOOP:
- * Write a cashier program that will scan a given number of items and tally the cost.
+ * Write a beginner_syntaxes_basics.cashier program that will scan a given number of items and tally the cost.
  */
 
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package text_processing;
+package beginner_syntaxes_basics.text_processing;
 
 public class ReserveString {
 

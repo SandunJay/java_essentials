@@ -1,4 +1,4 @@
-package instant_credit_checker;
+package beginner_syntaxes_basics.instant_credit_checker;
 
 import java.util.Scanner;
 

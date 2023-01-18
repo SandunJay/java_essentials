@@ -1,4 +1,4 @@
-package average_test_score;
+package beginner_syntaxes_basics.average_test_score;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package gross_calculator;
+package beginner_syntaxes_basics.gross_calculator;
 
 import java.util.Scanner;
 

@@ -1,10 +1,10 @@
-package grade;
+package beginner_syntaxes_basics.grade;
 
 import java.util.Scanner;
 
 public class Grade {
     public static void main(String[] args) {
-        System.out.println("Enter your letter grade: ");
+        System.out.println("Enter your letter beginner_syntaxes_basics.grade: ");
         Scanner in = new Scanner(System.in);
         String grade = in.next();
         in.close();

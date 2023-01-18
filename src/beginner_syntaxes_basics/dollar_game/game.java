@@ -1,4 +1,4 @@
-package dollar_game;
+package beginner_syntaxes_basics.dollar_game;
 
 import java.util.Scanner;
 

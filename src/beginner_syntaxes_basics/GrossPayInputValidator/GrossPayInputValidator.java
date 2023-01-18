@@ -1,4 +1,4 @@
-package loops;
+package beginner_syntaxes_basics.loops;
 
 import java.util.Scanner;
 

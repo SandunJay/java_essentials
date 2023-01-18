@@ -1,4 +1,4 @@
-package objects;
+package beginner_syntaxes_basics.objects;
 
 public class Rectangle {
     private double length;

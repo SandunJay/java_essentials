@@ -1,4 +1,4 @@
-package salary_calculator;
+package beginner_syntaxes_basics.salary_calculator;
 
 import java.util.Scanner;
 

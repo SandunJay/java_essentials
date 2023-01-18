@@ -1,4 +1,4 @@
-package password_validator;
+package beginner_syntaxes_basics.password_validator;
 
 import java.util.Scanner;
 

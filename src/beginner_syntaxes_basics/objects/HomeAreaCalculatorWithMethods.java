@@ -1,6 +1,5 @@
-package objects;
+package beginner_syntaxes_basics.objects;
 
-import java.util.Random;
 import java.util.Scanner;
 
 public class HomeAreaCalculatorWithMethods {

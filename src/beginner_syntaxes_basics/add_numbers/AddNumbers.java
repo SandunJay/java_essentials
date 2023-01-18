@@ -1,4 +1,4 @@
-package add_numbers;
+package beginner_syntaxes_basics.add_numbers;
 
 import java.util.Scanner;
 

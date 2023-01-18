@@ -1,4 +1,4 @@
-package story_builder;
+package beginner_syntaxes_basics.story_builder;
 
 import java.util.Scanner;
 
